@@ -6,9 +6,9 @@ I’m a Software Engineering Student & Developer passionate about building full-
 
 ## Frontend:
 
-###  HTML • CSS • JavaScript (ES6+)
+###    HTML • CSS • JavaScript (ES6+)
   
-###  React.js • Tailwind CSS • Bootstrap
+###    React.js • Tailwind CSS • Bootstrap
 
 Backend:
 
