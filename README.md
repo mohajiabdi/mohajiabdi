@@ -1,4 +1,5 @@
-# Hi, I’m Mohamed Mahad Abdi Aka MoHaji Abdi
+# Software Developer/ Front-End/ Back-End/ UI UX and More...
+## Hi, I’m Mohamed Mahad Abdi Aka MoHaji Abdi
 
 I’m a Software Engineering Student & Developer passionate about building full-stack applications and learning cutting-edge technologies. I love working with both front-end and back-end, and I enjoy solving real-world problems with code.
 
