@@ -10,18 +10,18 @@ I’m a Software Engineering Student & Developer passionate about building full-
   
 ###    React.js • Tailwind CSS • Bootstrap
 
-Backend:
+## Backend:
 
-Java (Spring Boot)
+  ###    Java (Spring Boot)
+  
+  ###    C# (.NET)
+  
+  ###    Python (Django/Flask basics)
 
-C# (.NET)
+## Databases:
 
-Python (Django/Flask basics)
+###    PostgreSQL • SQL Server
 
-Databases:
+## Other:
 
-PostgreSQL • SQL Server
-
-Other:
-
-Git • GitHub • REST APIs
+###    Git • GitHub • REST APIs
