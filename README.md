@@ -4,7 +4,7 @@ I’m a Software Engineering Student & Developer passionate about building full-
 
 # 🚀 Tech Stack
 
-Frontend:
+## Frontend:
 
 HTML • CSS • JavaScript (ES6+)
 
