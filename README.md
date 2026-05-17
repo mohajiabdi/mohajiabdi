@@ -17,7 +17,7 @@ I’m a Software Engineering Student & Developer passionate about building full-
   
   ###    2. C# (.NET)
   
-  ###    3. Python (Django/Flask basics)
+  ###    3. NodeJs
 
 ## Databases:
 
@@ -26,3 +26,4 @@ I’m a Software Engineering Student & Developer passionate about building full-
 ## Other:
 
 ###   1.  Git • GitHub • REST APIs
+###   2.  Git • GitLab •
