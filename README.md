@@ -22,6 +22,7 @@ I’m a Software Engineering Student & Developer passionate about building full-
 ## Databases:
 
 ###    1. PostgreSQL • SQL Server
+###    2. Mongo Db
 
 ## Other:
 
