@@ -1,4 +1,4 @@
- ![Banner](./bannner.png)
+![Banner](./banner.png)
 
 # Software Developer/ Front-End/ Back-End/ UI UX and More...
 ## Hi, I’m Mohamed Mahad Abdi Aka MoHaji Abdi
