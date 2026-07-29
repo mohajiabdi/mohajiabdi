@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Mohamed Mahad Abdi — full-stack developer">
+  <title>Mohamed Mahad Abdi — Full-Stack Developer</title>
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0f1a"/>
+      <stop offset="55%" stop-color="#15152a"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="tileBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0f1a"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="accentH" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="wordGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c7d2fe"/>
+      <stop offset="50%" stop-color="#a5b4fc"/>
+      <stop offset="100%" stop-color="#d8b4fe"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="400" fill="url(#bgGrad)"/>
+  <ellipse cx="1120" cy="60" rx="440" ry="320" fill="url(#glow2)"/>
+  <ellipse cx="172" cy="200" rx="230" ry="230" fill="url(#glow)"/>
+  <g stroke="#ffffff" stroke-opacity="0.03" stroke-width="1">
+    <path d="M0 100 H1280 M0 200 H1280 M0 300 H1280"/>
+    <path d="M320 0 V400 M640 0 V400 M960 0 V400"/>
+  </g>
+
+  <g transform="translate(1170,196) scale(2.75) translate(-128,-112)" opacity="0.10">
+    <path d="M128 32 L208 72 L208 152 L128 192 L48 152 L48 72 Z" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M128 56 L188 86 L188 138 L128 168 L68 138 L68 86 Z" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(88,116) scale(0.65625)">
+    <rect width="256" height="256" rx="48" fill="url(#tileBg)" stroke="#2b2b47" stroke-width="2"/>
+    <path d="M128 32 L208 72 L208 152 L128 192 L48 152 L48 72 Z" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M128 56 L188 86 L188 138 L128 168 L68 138 L68 86 Z" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linejoin="round" opacity="0.4"/>
+    <text x="128" y="120" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="52" font-weight="700" text-anchor="middle" fill="#ffffff" letter-spacing="2">MA</text>
+    <circle cx="128" cy="156" r="4" fill="url(#accent)"/>
+  </g>
+
+  <rect x="302" y="103" width="42" height="4" rx="2" fill="url(#accentH)"/>
+  <text x="356" y="116" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="17" font-weight="600" letter-spacing="5" fill="#a5b4fc">FULL-STACK DEVELOPER</text>
+
+  <text x="300" y="192" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="62" font-weight="800" letter-spacing="-1" fill="url(#wordGrad)">Mohamed Mahad Abdi</text>
+  <rect x="302" y="210" width="132" height="5" rx="2.5" fill="url(#accentH)"/>
+
+  <text x="302" y="252" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="22" font-weight="400" fill="#9aa0bd">Building full-stack products — front-end, back-end &amp; APIs.</text>
+
+  <g font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="15" font-weight="500">
+    <rect x="302" y="276" width="90" height="34" rx="17" fill="#ffffff" fill-opacity="0.035" stroke="#8b5cf6" stroke-opacity="0.35"/>
+    <text x="347" y="298" text-anchor="middle" fill="#c4b5fd">React</text>
+    <rect x="404" y="276" width="104" height="34" rx="17" fill="#ffffff" fill-opacity="0.035" stroke="#8b5cf6" stroke-opacity="0.35"/>
+    <text x="456" y="298" text-anchor="middle" fill="#c4b5fd">Node.js</text>
+    <rect x="520" y="276" width="132" height="34" rx="17" fill="#ffffff" fill-opacity="0.035" stroke="#8b5cf6" stroke-opacity="0.35"/>
+    <text x="586" y="298" text-anchor="middle" fill="#c4b5fd">Spring Boot</text>
+    <rect x="664" y="276" width="80" height="34" rx="17" fill="#ffffff" fill-opacity="0.035" stroke="#8b5cf6" stroke-opacity="0.35"/>
+    <text x="704" y="298" text-anchor="middle" fill="#c4b5fd">.NET</text>
+    <rect x="756" y="276" width="128" height="34" rx="17" fill="#ffffff" fill-opacity="0.035" stroke="#8b5cf6" stroke-opacity="0.35"/>
+    <text x="820" y="298" text-anchor="middle" fill="#c4b5fd">PostgreSQL</text>
+  </g>
+
+  <text x="302" y="350" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" font-weight="400" fill="#6f739a"><tspan fill="#8b8fb5" font-weight="600">github.com/mohajiabdi</tspan>&#160;&#160;&#160;·&#160;&#160;&#160;Software Engineering Student &amp; Developer</text>
+
+  <rect x="0" y="395" width="1280" height="5" fill="url(#accentH)"/>
+</svg>
