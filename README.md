@@ -1,4 +1,4 @@
-![Mohamed Mahad Abdi — Full-Stack Developer](./banner.svg)
+![Mohamed Mahad Abdi — Full-Stack Developer](./banner3.svg)
 
 # Hi, I'm Mohamed Mahad Abdi 👋 &nbsp;·&nbsp; aka MoHaji Abdi
 
