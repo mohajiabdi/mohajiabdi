@@ -50,9 +50,17 @@ A private, encrypted desktop app that indexes and searches your AI coding conver
 
 ## 📊 GitHub Stats
 
-![Mohaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohajiabdi&show_icons=true&hide_border=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohajiabdi&layout=compact&hide_border=true&theme=tokyonight)
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=mohajiabdi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  />
 
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohajiabdi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
+</p>
 ---
 
 ## 📫 Connect
