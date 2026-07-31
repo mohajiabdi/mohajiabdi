@@ -42,10 +42,9 @@
 
 ## 🌟 Featured Project — AI History
 
-A private, encrypted desktop app that indexes and searches your AI coding conversations locally — across Claude Code, OpenCode, Gemini CLI, Codex, and Cursor. No cloud, no telemetry. Built with TypeScript, React, Electron, and SQLCipher.
+A private, encrypted desktop application that indexes and searches AI coding conversations locally across Claude Code, OpenCode, Gemini CLI, Codex, and Cursor. Built with TypeScript, React, Electron, and SQLCipher.
 
-🌐 [ai.texttoolkit.live](https://ai.texttoolkit.live) &nbsp;·&nbsp; ⬇️ [Download](https://ai.texttoolkit.live/download) &nbsp;·&nbsp; 📦 [Releases](https://github.com/mohajiabdi/ai-history-releases/releases)
-
+AI History is a local-first application designed with privacy in mind. Your conversations remain on your own machine with no cloud storage, no telemetry, and no accounts required.
 ---
 
 ## 📊 GitHub Stats
